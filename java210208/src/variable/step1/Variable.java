@@ -36,6 +36,7 @@ public class Variable {
 		System.out.print(10 + "" + 10);//줄바꿈 안됨
 		System.out.print("");//줄바꿈 안됨
 		System.out.println();//줄바꿈
+		
 	}
 
 }
